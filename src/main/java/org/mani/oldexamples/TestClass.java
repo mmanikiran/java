@@ -1,3 +1,5 @@
+package org.mani.oldexamples;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;

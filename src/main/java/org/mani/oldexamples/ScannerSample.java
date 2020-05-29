@@ -1,3 +1,5 @@
+package org.mani.oldexamples;
+
 import java.lang.*;
 import java.io.*;
 import java.util.*;

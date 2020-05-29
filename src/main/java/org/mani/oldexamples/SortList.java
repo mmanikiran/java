@@ -1,4 +1,4 @@
-/* IMPORTANT: Multiple classes and nested static classes are supported */
+package org.mani.oldexamples;/* IMPORTANT: Multiple classes and nested static classes are supported */
 
 
 
